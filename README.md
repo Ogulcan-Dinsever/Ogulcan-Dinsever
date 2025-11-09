@@ -1,5 +1,16 @@
 # 💫 About Me:
-Hello.I graduated from the Computer Department of Süleyman Taştekin Vocational and Technical Anatolian<br>High School in İzmir. I completed the Computer Programming Department at Isparta Süleyman Demirel<br>University with a first-place ranking (3.4/4). I received Qualified IT Specialist training at Bilge Adam Academy.<br>Since November 2021, I have been actively working as a Backend Developer at Diten Technology, a subsidiary<br>of Grand Medical Group. I have completed my military service. I want to reflect what I have learned in my<br>career and school life to my business life. I will further develop myself with the knowledge I will gain from<br>more experienced and knowledgeable people in my business life. I am in a position where I can use my<br>problem-solving skills in teamwork and dedicate time to learning and developing myself, I want to continue<br>this.<br>
+I graduated from the Computer Department of Süleyman Taştekin Vocational and Technical Anatolian High
+School in İzmir. I completed the Computer Programming Department at Isparta Süleyman Demirel University
+with a first-place ranking (3.4/4). I received Qualified IT Specialist training at Bilge Adam Academy. From
+November 2021, I worked as a Backend Developer at Diten Technology, a subsidiary of Grand Medical Group. I
+have completed my military service.
+In July 2024, I started working as a Software Developer at Mikro Yazılım, part of Mikro Group. I am part of the
+core team responsible for the integration between accounting software such as Parasut, Zirve, and Mikro with
+the Turkish Revenue Administration (GIB).
+I am dedicated to reflecting what I have learned in my career and school life into my business life. I will further
+develop myself with the knowledge I gain from more experienced and knowledgeable people in my business
+life. I am in a position where I can use my problem-solving skills in teamwork and dedicate time to learning
+and developing myself. I want to continue progressing in this direction.<br>this.<br>
 
 
 ## 🌐 Socials:
