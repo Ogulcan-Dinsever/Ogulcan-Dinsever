@@ -1,16 +1,9 @@
 # 💫 About Me:
-I graduated from the Computer Department of Süleyman Taştekin Vocational and Technical Anatolian High
-School in İzmir. I completed the Computer Programming Department at Isparta Süleyman Demirel University
-with a first-place ranking (3.4/4). I received Qualified IT Specialist training at Bilge Adam Academy. From
-November 2021, I worked as a Backend Developer at Diten Technology, a subsidiary of Grand Medical Group. I
-have completed my military service.
-In July 2024, I started working as a Software Developer at Mikro Yazılım, part of Mikro Group. I am part of the
-core team responsible for the integration between accounting software such as Parasut, Zirve, and Mikro with
-the Turkish Revenue Administration (GIB).
-I am dedicated to reflecting what I have learned in my career and school life into my business life. I will further
-develop myself with the knowledge I gain from more experienced and knowledgeable people in my business
-life. I am in a position where I can use my problem-solving skills in teamwork and dedicate time to learning
-and developing myself. I want to continue progressing in this direction.<br>this.<br>
+Passionate and results-driven Backend Developer with 5+ years of experience designing and delivering scalable, secure,
+and maintainable backend systems. Proficient in the .NET ecosystem, microservice architecture, and cloud-native
+applications. Experienced in leading architecture discussions, mentoring junior developers, and driving complex system
+integrations across enterprise environments. Committed to clean code principles, SOLID design, and continuous
+improvement.<br>this.<br>
 
 
 ## 🌐 Socials:
